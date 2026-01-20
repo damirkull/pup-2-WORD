@@ -1,0 +1,11 @@
+C:\pmi\Words\Words\bin\Debug\Words.exe.config
+C:\pmi\Words\Words\bin\Debug\Words.exe
+C:\pmi\Words\Words\bin\Debug\Words.pdb
+C:\pmi\Words\Words\obj\Debug\Words.csproj.AssemblyReference.cache
+C:\pmi\Words\Words\obj\Debug\Words.FormGame.resources
+C:\pmi\Words\Words\obj\Debug\Words.Properties.Resources.resources
+C:\pmi\Words\Words\obj\Debug\Words.csproj.GenerateResource.cache
+C:\pmi\Words\Words\obj\Debug\Words.csproj.CoreCompileInputs.cache
+C:\pmi\Words\Words\obj\Debug\Words.exe
+C:\pmi\Words\Words\obj\Debug\Words.pdb
+C:\pmi\Words\Words\obj\Debug\Words.FormPlay.resources
